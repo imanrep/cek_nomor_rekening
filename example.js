@@ -1,6 +1,6 @@
 import axios from "axios";
 
-//Cek Balance
+// Get Bank List
 function cekBalance(){
     const form = new FormData();
     form.append("get", "list");
