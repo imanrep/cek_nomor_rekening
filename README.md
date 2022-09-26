@@ -10,13 +10,13 @@ Usage
 -----------
 ```
 Create POST request to : https://imanrep.com/api/cekRekening/
-
+```
 | Parameter  | value |
 | ------------- | ------------- |
 | get  | list or rekening  |
 | bank_code  | bank_code |
 | account  | nomor_rekening |
-```
+
 Features
 ------------
 - [x] BANK BRI
