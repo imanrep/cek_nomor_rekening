@@ -1,4 +1,4 @@
-![WhatsApp Image 2022-09-26 at 19 24 35](https://user-images.githubusercontent.com/86184667/192289512-8bb7ead7-8168-406a-9658-1cde6927cc45.png)
+![Untitled-1 (1)](https://user-images.githubusercontent.com/86184667/192291514-a6697305-3d1e-4420-b3c7-185e47815691.png)
 
 <br></br>
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
